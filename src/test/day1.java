@@ -23,6 +23,8 @@ public class day1 {
 	public void Demo1() 
 	{
 		System.out.println("Bye");
+		System.out.println("postJira");
+		System.out.println("postJira1");
 	}
 	
 	@AfterSuite
