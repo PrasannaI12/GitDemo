@@ -12,6 +12,13 @@ public class day2 {
 		System.out.println("Bad");
 	}
 	
+	@Test(groups= {"Smoke"})
+	public void Demo4()
+	{
+		System.out.println("Appium");
+		System.out.println("Selenium");
+	}
+	
 	@BeforeTest
 	public void prerequisite()
 	{

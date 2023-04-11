@@ -29,6 +29,16 @@ public class day1 {
 		System.out.println("postJira3");
 	}
 	
+	@Test
+	public void Demo2() 
+	{
+		System.out.println("Bye");
+		System.out.println("postJira4");
+		System.out.println("postJira5");
+		System.out.println("postJira6");
+		System.out.println("postJira7");
+	}
+	
 	@AfterSuite
 	public void AfSuite()
 	{
