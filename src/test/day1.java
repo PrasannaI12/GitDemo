@@ -25,6 +25,8 @@ public class day1 {
 		System.out.println("Bye");
 		System.out.println("postJira");
 		System.out.println("postJira1");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
 	}
 	
 	@AfterSuite

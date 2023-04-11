@@ -9,6 +9,7 @@ public class day2 {
 	public void Demo3()
 	{
 		System.out.println("Good");
+		System.out.println("Bad");
 	}
 	
 	@BeforeTest
