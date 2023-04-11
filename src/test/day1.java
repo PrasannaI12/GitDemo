@@ -39,6 +39,12 @@ public class day1 {
 		System.out.println("postJira7");
 	}
 	
+	@Test
+	public void Demo3()
+	{
+		System.out.println("postJira8");
+	}
+	
 	@AfterSuite
 	public void AfSuite()
 	{
